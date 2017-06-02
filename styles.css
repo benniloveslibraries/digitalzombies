@@ -262,6 +262,12 @@ body h2 {
 	padding-right: 20px;
 }
 
+.standardmission ul {
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
 @media (min-width: 768px) {
     .container {
         max-width: 750px;
@@ -368,6 +374,12 @@ body h2 {
 
 	.standardmission h1 {
 		text-align: center;
+		padding-left: 115px;
+		padding-right: 115px;
+	}
+
+	.standardmission ul {
+		text-align: left;
 		padding-left: 115px;
 		padding-right: 115px;
 	}
