@@ -231,6 +231,37 @@ body h2 {
 	padding-right: 20px;
 }
 
+.requirements h1 {
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.requirements h2 {
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.requirements ul {
+	list-style-type: none;
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.standardmission p {
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.standardmission h1 {
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
 @media (min-width: 768px) {
     .container {
         max-width: 750px;
@@ -310,6 +341,38 @@ body h2 {
 		padding-left: 115px;
 		padding-right: 115px;
 	}
+
+	.requirements h1 {
+		text-align: center;
+		padding-left: 115px;
+		padding-right: 115px;
+	}
+
+	.requirements h2 {
+		text-align: center;
+		padding-left: 115px;
+		padding-right: 115px;
+	}
+
+	.requirements ul {
+		list-style-type: none;
+		text-align: center;
+		padding-left: 115px;
+		padding-right: 115px;
+	}
+	.standardmission p {
+		text-align: left;
+		padding-left: 115px;
+		padding-right: 115px;
+	}
+
+	.standardmission h1 {
+		text-align: center;
+		padding-left: 115px;
+		padding-right: 115px;
+	}
+
+
 }
 
 @media (min-width: 992px) {
