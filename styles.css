@@ -190,42 +190,42 @@ body h2 {
     padding-left: 115px;
    }
 
-.people h1 {
+h1.people {
 	text-align: left;
 	padding-left: 115px;
 	padding-right: 115px;
 }
 
-.people h2 {
+h2.people {
 	text-align: left;
 	padding-left: 115px;
 	padding-right: 115px;
 }
 
-.people h3 {
+h3.people {
 	text-align: left;
 	padding-left: 115px;
 	padding-right: 115px;
 }
 
-.people p {
+p.people {
 	text-align: left;
 	padding-left: 115px;
 	padding-right: 115px;
 }
 
-.people ul {
+ul.people {
 	text-align: left;
 	padding-left: 115px;
 	padding-right: 115px;
 }
 
-.frontmatter h1 {
+h1.frontmatter {
 	text-align: center;
 	font-size: 2em;
 }
 
-.frontmatter h4 {
+h4.frontmatter {
 	text-align: left;
 	padding-left: 115px;
 	padding-right: 115px;
